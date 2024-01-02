@@ -1,0 +1,23 @@
+button {
+  background-color: transparent;
+  color: white;
+  border: solid 0.0625rem white;
+  border-radius: 1rem;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+  width: 15.625rem;
+  height: 5rem;
+  font-size: 2.25rem;
+}
+
+.btn-click {
+  background-color: #002ead;
+}
+
+.btn-reset {
+  background-color: #5a01a7;
+}
+
+button:hover {
+  background-color: #00471b;
+}

@@ -1,0 +1,17 @@
+.counter-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0.25rem solid white;
+  min-width: 18.75rem;
+  min-height: 18.75rem;
+  margin-bottom: 0.75rem;
+  padding: 1.5rem;
+}
+
+p {
+  color: white;
+  font-size: 10rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
